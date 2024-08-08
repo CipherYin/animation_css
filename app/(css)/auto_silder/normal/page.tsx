@@ -45,20 +45,7 @@ const NormalAutoSilder = () => {
                 reverse="true"
 
             />
-            {/* <div className="slider" style={{width:100,height:50}}>
-                <div className="list">
-                    <div className="item"><img src="/images/auto_slider/slider1_1.png" alt="" /></div>
-                    <div className="item"><img src="/images/auto_slider/slider1_2.png" alt="" /></div>
-                    <div className="item"><img src="/images/auto_slider/slider1_3.png" alt="" /></div>
-                    <div className="item"><img src="/images/auto_slider/slider1_4.png" alt="" /></div>
-                    <div className="item"><img src="/images/auto_slider/slider1_5.png" alt="" /></div>
-                    <div className="item"><img src="/images/auto_slider/slider1_6.png" alt="" /></div>
-                    <div className="item"><img src="/images/auto_slider/slider1_7.png" alt="" /></div>
-                    <div className="item"><img src="/images/auto_slider/slider1_8.png" alt="" /></div>
-                    <div className="item"><img src="/images/auto_slider/slider1_9.png" alt="" /></div>
-                    <div className="item"><img src="/images/auto_slider/slider1_10.png" alt="" /></div>
-                </div>
-            </div>  */}
+          
         </>
        
     );
